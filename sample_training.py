@@ -3,7 +3,7 @@ import pandas as pd
 df = pd.DataFrame()
 
 if df.empty:
-    print('ok')
-    
+    print('success.')
+
 if __name__ == "__main__":
     pass
